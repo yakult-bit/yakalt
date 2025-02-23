@@ -1,1 +1,5 @@
-flask pandas numpy tensorflow yfinance 
+flask 
+pandas 
+numpy 
+tensorflow 
+yfinance 
