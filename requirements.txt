@@ -5,3 +5,5 @@ tensorflow
 yfinance 
 pandas_ta 
 scikit-learn 
+fuzzywuzzy 
+python-Levenshtein 
