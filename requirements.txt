@@ -1,6 +1,6 @@
+numpy==1.23.5 
 flask 
 pandas 
-numpy 
 tensorflow 
 yfinance 
 pandas_ta 
