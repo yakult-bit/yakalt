@@ -4,3 +4,4 @@ pandas
 tensorflow 
 yfinance 
 pandas_ta 
+scikit-learn 
